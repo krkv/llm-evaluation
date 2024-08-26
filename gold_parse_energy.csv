@@ -1,1 +1,4 @@
 prompt,query
+"Explain this system to me","function [e]"
+"What can you do?","function [e]"
+"What is this chat","function [e]"
