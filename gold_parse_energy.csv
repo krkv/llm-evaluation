@@ -1,4 +1,12 @@
 prompt,query
-"Explain this system to me","function [e]"
 "What can you do?","function [e]"
-"What is this chat","function [e]"
+"What is this chat","self [e]"
+"Explain this system","self and function [e]"
+"What is the purpose of this chat","self [e]"
+"What can I ask","function [e]"
+"Describe the data","data [e]"
+"What can you tell me about the model?","model [e]"
+"Tell me about the data and the model","data and model [e]"
+"Explain model and data","model and data [e]"
+"What are the features?","features [e]"
+
